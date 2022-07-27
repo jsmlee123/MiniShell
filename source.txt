@@ -1,0 +1,4 @@
+ls 
+echo "Hi There"
+echo "Test"
+echo "This is" ; echo goodbye
