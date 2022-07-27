@@ -1,5 +1,5 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef PARSE_H
+#define PARSE_H
 
 /*
  * A custom struct used to store tokens.
